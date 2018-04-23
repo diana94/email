@@ -22,3 +22,5 @@
 Нужно писать max-width и/или max-height в ноль. А также делаем обертку в ноль и overflow hidden.
 
 * display:none не воспринимается некоторыми бразуерами
+
+* outlook 2016 перед line-height пишем mso-line-height-rule:exactly;
